@@ -64,7 +64,7 @@ plt.imsave('MerhabaSonSınıf.jpg',im_2) #verilen isimle resmi kaydetti.
 
 
 #resmi siyah-beyaz yapma
-new_image=np.zeros((m,n),dtype=float) #im_1 resmi ile aynı boyutlarda yeni resim oluşturdu.""
+new_image=np.zeros((m,n),dtype=float) #im_1 resmi ile aynı boyutlarda yeni resim oluşturdu.
 for i in range(m):
     for j in range(n):
         s=(im_1[i,j,0]+im_1[i,j,1]+im_1[i,j,2])/3 #rgb değerlerinin ortalamasını alıyor.
