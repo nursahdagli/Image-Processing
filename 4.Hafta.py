@@ -36,7 +36,7 @@ for i in my_list:
     if i in my_histogram.keys():
         my_histogram[i]+=1
     else:
-        my_histogram[i]=1 #dizide her eleman 1 defa oldugu için
+        my_histogram[i]=1 #dizide her eleman 1 defa oldugu için.
 
 #my_histogram[1]=10 #value:1 değerinde olanın key:10 yap 
 #my_histogram[2]=15
