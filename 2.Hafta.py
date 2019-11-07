@@ -43,7 +43,7 @@ import numpy as np
 
 my_list_1=np.array(list([9,3,5,6,2,3,6])) #ndarray
 print(my_list_1)
-print(my_list_1+1) #listelerden farklı olarak listeyi 1 ile direkt topladıgında arttırıyor.
+print(my_list_1+1) #listelerden farklı olarak listeyi 1 ile direkt topladıgında arttırıyor
 
 
 # In[10]:
