@@ -28,7 +28,7 @@ print(my_f_1())
 # In[14]:
 
 
-#dizideki elemanların kaç defa tekrar ettiğini my_histogram listesinde key:value şeklinde tutuyor.
+#dizideki elemanların kaç defa tekrar ettiğini my_histogram listesinde key:value şeklinde tutuyor
 my_histogram={}
 my_list=[2,4,3,40,5,6,3,3,2,1]
 
