@@ -139,7 +139,6 @@ print(confusion_matrix(predictions, labels)) #dogru ve yanlış class bilgisini 
 print(classification_report(predictions, labels))
 # yine hata ölçüm yöntemleri
 
-
 # In[ ]:
 
 #Bir One Hidden Layer Ekledik
