@@ -58,7 +58,7 @@ perceptron.predict(inputs)
 #=> 1
 
 inputs = np.array([0, 1]) #1,1 yazdıgında 1 çıktısı al
-perceptron.predict(inputs) 
+perceptron.predict(inputs) #tahmin
 #=> 0
 
 
