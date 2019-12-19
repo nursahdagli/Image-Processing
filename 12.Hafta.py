@@ -142,8 +142,7 @@ print(classification_report(predictions, labels))
 
 # In[ ]:
 
-
-#bir One Hidden Layer Ekledik
+#Bir One Hidden Layer Ekledik
 
 X = X_train
 Y = y_train
