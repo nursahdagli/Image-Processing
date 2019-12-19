@@ -11,7 +11,6 @@ import  cv2
 
 # In[ ]:
 
-
 data_main_folder="dosya"
 import  os.path
 dirs=[d for d in os.listdir(data_main_folder) if os.path.isdir(os.path.join(data_main_folder))]
